@@ -310,5 +310,7 @@ for ($i = 0; $i < count($data); $i++) {
   </tr>");
 }	
 ?>
+  </tbody>
+</table>
 </body>
 </html>
